@@ -32,7 +32,14 @@ The snake grows longer when it eats apples, and the game ends when it hits the w
 - install pygame
   - pip install pygame  
 - run the game
-  - python snake_game.py  
+  - python snake_game.py
+
+# 🎮 Game Screenshots
+
+<p align="center">
+  <img src="ScreenShots/p3.png" width="350">
+  <img src="ScreenShots/p4.png" width="350">
+</p>
  
 # Notes
 - Make sure all images and sound files exist inside a resources/ folder.  
